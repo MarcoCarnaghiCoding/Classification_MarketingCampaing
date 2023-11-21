@@ -1,5 +1,5 @@
 # Classification Models
-![Marketing](https://img.shields.io/badge/Spotify-Data%20Analysis-blue)
+![Marketing](https://img.shields.io/badge/Marketing-Data%20Analysis-blue)
 The goal of this project is to predict the success of the marketing campaign based on the available features and to evaluate the performance of different classifiers.
 
 To achieve this, we will use various classification techniques and tools, such as:
